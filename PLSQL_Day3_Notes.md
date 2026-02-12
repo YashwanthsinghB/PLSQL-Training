@@ -1,4 +1,4 @@
-# PL/SQL Cursors I – Day 3
+# PL/SQL Cursors I – Day 17 -  Ritu
 
 ## Implicit Cursors, Explicit Cursors & Cursor Attributes
 
